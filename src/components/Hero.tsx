@@ -16,7 +16,7 @@ const slides: Slide[] = [
   {
     image: 'https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&q=80&w=1600',
     tagline: 'TRADITIONAL HERITAGE. MODERN ARTISTRY.',
-    title: 'THE GRAND PAVILION',
+    title: 'KOWSHIK',
     subtitle: "Welcome to India's largest restaurant. Savor heritage Indian recipes reimagined with contemporary culinary mastery in a luxurious architectural sanctuary.",
   },
   {

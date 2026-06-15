@@ -26,7 +26,7 @@ export default function About() {
             <div className="h-[1px] w-20 bg-luxury-gold/55" />
             
             <p className="text-base text-luxury-gold italic font-medium leading-relaxed font-serif text-lg">
-              "At India's Grand Pavilion, we believe that dining is a sacred ritual—a beautiful union of taste, aroma, and visual elegance."
+              "At KOWSHIK, we believe that dining is a sacred ritual—a beautiful union of taste, aroma, and visual elegance."
             </p>
             
             <p className="text-sm sm:text-base text-luxury-cream/80 leading-relaxed font-light">

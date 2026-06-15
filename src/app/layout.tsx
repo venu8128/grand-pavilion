@@ -25,20 +25,20 @@ const jakarta = Plus_Jakarta_Sans({
 })
 
 export const metadata: Metadata = {
-  title: "India's Grand Pavilion | India's Largest Culinary Destination",
-  description: "Experience the ultimate culinary journey at India's Grand Pavilion in Poranki, Vijayawada. Fine Indian gastronomy, multi-cuisine, cafe, and luxurious dining. Savor 'A Taste You'll Never Forget'.",
-  keywords: "India's Grand Pavilion, restaurant Vijayawada, Poranki restaurant, multi-cuisine dining, Indian fine dining, cafe Vijayawada, order food Vijayawada, table reservation Vijayawada",
+  title: "KOWSHIK | India's Largest Culinary Destination",
+  description: "Experience the ultimate culinary journey at KOWSHIK in Poranki, Vijayawada. Fine Indian gastronomy, multi-cuisine, cafe, and luxurious dining. Savor 'A Taste You'll Never Forget'.",
+  keywords: "KOWSHIK, restaurant Vijayawada, Poranki restaurant, multi-cuisine dining, Indian fine dining, cafe Vijayawada, order food Vijayawada, table reservation Vijayawada",
   openGraph: {
-    title: "India's Grand Pavilion | India's Largest Culinary Destination",
+    title: "KOWSHIK | India's Largest Culinary Destination",
     description: "Savor a sensory journey of multi-cuisine wonders, tandoor specials, and desserts in a luxurious setting at Poranki, Vijayawada.",
     url: 'https://indias-grand-pavilion.vercel.app',
-    siteName: "India's Grand Pavilion",
+    siteName: "KOWSHIK",
     images: [
       {
         url: 'https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&q=80&w=1200',
         width: 1200,
         height: 630,
-        alt: "India's Grand Pavilion Fine Dining Room",
+        alt: "KOWSHIK Fine Dining Room",
       },
     ],
     locale: 'en_US',

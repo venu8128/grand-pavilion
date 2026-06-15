@@ -362,7 +362,7 @@ export default function Checkout() {
               </div>
               
               <div className="border-b border-luxury-gold/10 pb-3 flex justify-between">
-                <span className="font-sans font-bold tracking-widest text-luxury-gold text-sm">GRAND PAVILION</span>
+                <span className="font-sans font-bold tracking-widest text-luxury-gold text-sm">KOWSHIK</span>
                 <span>ID: {orderId}</span>
               </div>
               

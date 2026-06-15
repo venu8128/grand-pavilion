@@ -16,7 +16,7 @@ export default function ChatBot() {
   const [messages, setMessages] = useState<Message[]>([
     {
       sender: 'bot',
-      text: "Greetings! Welcome to India's Grand Pavilion. I am your virtual culinary concierge. How may I assist you today?",
+      text: "Greetings! Welcome to KOWSHIK. I am your virtual culinary concierge. How may I assist you today?",
       timestamp: new Date(),
       options: ["View Opening Hours", "Find Our Location", "Chef recommendations", "Reserve a Table"]
     }
@@ -67,7 +67,7 @@ export default function ChatBot() {
     if (text.includes('location') || text.includes('where') || text.includes('address') || text.includes('vijayawada') || text.includes('poranki')) {
       return {
         sender: 'bot',
-        text: "India's Grand Pavilion is situated in Poranki, Vijayawada, Andhra Pradesh, India. We feature spacious parking and valet services for our guests.",
+        text: "KOWSHIK is situated in Poranki, Vijayawada, Andhra Pradesh, India. We feature spacious parking and valet services for our guests.",
         timestamp,
         options: ["View Opening Hours", "Reserve a Table"]
       };

@@ -124,7 +124,7 @@ export default function Gallery() {
                 </div>
                 <div>
                   <span className="text-[10px] tracking-widest text-luxury-gold uppercase block font-bold mb-1">
-                    India's Grand Pavilion
+                    KOWSHIK
                   </span>
                   <h3 className="font-serif text-lg font-medium text-white">{item.caption}</h3>
                 </div>

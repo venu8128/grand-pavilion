@@ -95,7 +95,7 @@ export default function Navbar() {
         {/* Restaurant Branding */}
         <Link href="/" className="flex flex-col select-none group">
           <span className="font-serif text-lg sm:text-xl font-bold tracking-[0.25em] text-luxury-gold transition-colors group-hover:text-luxury-lightGold">
-            GRAND PAVILION
+            KOWSHIK
           </span>
           <span className="text-[8px] sm:text-[9px] tracking-[0.18em] text-luxury-cream/70 dark:text-luxury-cream/70 -mt-0.5">
             INDIA'S LARGEST RESTAURANT

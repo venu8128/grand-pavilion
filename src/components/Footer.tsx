@@ -30,7 +30,7 @@ export default function Footer() {
           <div className="space-y-4">
             <Link href="/" className="flex flex-col select-none">
               <span className="font-serif text-xl font-bold tracking-[0.25em] text-luxury-gold">
-                GRAND PAVILION
+                KOWSHIK
               </span>
               <span className="text-[9px] tracking-[0.18em] text-luxury-cream/70 -mt-0.5">
                 INDIA'S LARGEST RESTAURANT
@@ -144,7 +144,7 @@ export default function Footer() {
         {/* Bottom copyright segment */}
         <div className="border-t border-luxury-gold/10 pt-8 flex flex-col sm:flex-row items-center justify-between text-[11px] text-luxury-cream/40 space-y-4 sm:space-y-0">
           <div>
-            &copy; {new Date().getFullYear()} India's Grand Pavilion. All rights reserved.
+            &copy; {new Date().getFullYear()} KOWSHIK. All rights reserved.
           </div>
           <div className="flex gap-4">
             <Link href="#" className="hover:text-luxury-gold transition-colors">Privacy Policy</Link>

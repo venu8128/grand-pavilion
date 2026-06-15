@@ -53,7 +53,7 @@ export default function ContactSection() {
             {/* Embedded Google Map */}
             <div className="w-full h-80 rounded-xl overflow-hidden border border-luxury-gold/15 shadow-lg bg-luxury-dark/30">
               <iframe
-                title="Grand Pavilion Location Map"
+                title="KOWSHIK Location Map"
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3826.0628282361664!2d80.70817341530932!3d16.47231478862985!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a35fabcbf000001%3A0xe543ec682c7d91e!2sPoranki%2C%20Vijayawada%2C%20Andhra%20Pradesh%20521137!5e0!3m2!1sen!2sin!4v1650000000000!5m2!1sen!2sin"
                 width="100%"
                 height="100%"
@@ -92,7 +92,7 @@ export default function ContactSection() {
                 </div>
                 <h4 className="font-serif font-bold text-sm text-white">Inquiries</h4>
                 <p className="text-[11px] text-luxury-cream/70 font-light leading-relaxed">
-                  Email@gmail.com<br />concierge@grandpavilion.in
+                  Email@gmail.com<br />concierge@kowshik.in
                 </p>
               </div>
 

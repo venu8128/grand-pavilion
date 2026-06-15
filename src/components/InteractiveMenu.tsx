@@ -354,7 +354,7 @@ export default function InteractiveMenu() {
         <div className="mt-20 border border-luxury-gold/15 bg-luxury-dark/30 rounded-2xl p-8 md:p-12 grid grid-cols-1 lg:grid-cols-2 gap-10 items-center">
           <div className="space-y-6">
             <span className="text-xs font-bold tracking-[0.25em] text-luxury-gold uppercase block">DELIVERED TO YOUR DOOR</span>
-            <h3 className="font-serif text-2xl sm:text-3xl font-bold text-luxury-cream">Pavilion Fine Dining at Home</h3>
+            <h3 className="font-serif text-2xl sm:text-3xl font-bold text-luxury-cream">KOWSHIK at Home</h3>
             <div className="h-[1px] w-16 bg-luxury-gold/50" />
             
             <p className="text-sm text-luxury-cream/80 font-light leading-relaxed">
